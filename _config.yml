@@ -28,6 +28,9 @@ index_widgets:
 archive_type: 'monthly'
 show_count: false
 
+# Google Analytics Tracking ID
+google_analytics: UA-93916522-1
+
 # Miscellaneous
 favicon: images/favicon
 twitter:
